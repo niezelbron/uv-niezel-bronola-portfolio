@@ -27,7 +27,7 @@ Fully responsive and Mobile friendly, Multiple Pages Website template / Portfoli
 # Samsung Galaxy S20 Ultra screen size (412 x 915). 
 Please avoid the picture quality of screenshot -> just focus on responsive elements.
 
-# Landing Page
+# Landing Pagee
 
 ![Landin Page - Mobile view (412 x 915)](https://github.com/mdtalalwasim/Template-Website-v1.0/assets/91146041/255c1b00-37a5-4772-bedc-94f6d087dc8b)
 
